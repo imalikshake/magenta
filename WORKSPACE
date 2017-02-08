@@ -9,7 +9,7 @@ new_http_archive(
 git_repository(
   name = "protobuf",
   remote = "https://github.com/google/protobuf",
-  commit = "18a9140f3308272313a9642af58ab0051ac09fd2",
+  commit = "9d3288e651700f3d52e6b4ead2a9f9ab02da53f4",
 )
 
 new_http_archive(
